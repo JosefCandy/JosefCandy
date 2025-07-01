@@ -37,14 +37,12 @@ If you like what I do, consider ⭐ my repositories or buying me a coffee!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosefCandy&layout=compact&theme=radical" width="40%" />
 </p>
 
-## 🐍 Contribution Snake (SVG Animation)
-
-![GitHub Contribution Snake](https://github.com/JosefCandy/JosefCandy/blob/output/github-contribution-grid-snake.svg)
 
 
-
+![ai-generative-happy-business-man-on-transparent-white-background-realistic-image-ultra-hd-high-design-very-detailed-free-photo](https://github.com/user-attachments/assets/e11d9f97-0e69-439e-a74c-4653ea09d860)
 
 ### 🧳 About Me
+
 
 - 🔗 Building bridges between **Web2 and Web3** technologies  
 - 🔭 Currently expanding my skills in **Python, React.js, and Solidity**  
