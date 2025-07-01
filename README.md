@@ -6,6 +6,8 @@
 </p>
 
 ---
+![Image](https://github.com/user-attachments/assets/0783f41b-4e5e-4d4b-a81d-617854766701)
+
 
 ### 🏆 GitHub Trophies
 
