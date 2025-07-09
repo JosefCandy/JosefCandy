@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm [Josef Candy]</h1>
 <h3 align="center">Full-Stack Developer | Blockchain Enthusiast | Web3 Engineer</h3>
 
 <p align="center">
@@ -7,35 +6,6 @@
 
 ---
 ![Image](https://github.com/user-attachments/assets/0783f41b-4e5e-4d4b-a81d-617854766701)
-
-
-
-## 💖 Support
-
-If you like what I do, consider ⭐ my repositories or buying me a coffee!
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Full-Stack+Developer;Blockchain+%26+Web3+Engineer;Open+Source+Contributor" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosefCandy&layout=compact&theme=radical" width="40%" />
-</p>
-
-
-
-### 🧳 About Me
-
-
-- 🔗 Building bridges between **Web2 and Web3** technologies  
-- 🔭 Currently expanding my skills in **Python, React.js, and Solidity**  
-- ❤️ Passionate about **DeFi, NFTs**, and decentralized applications  
-- 🔐 Focused on secure, scalable **blockchain solutions**  
-- ⚡ Fun fact: Ethical hacker in my spare time
 
 ---
 
