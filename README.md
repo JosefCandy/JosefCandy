@@ -9,17 +9,6 @@
 ![Image](https://github.com/user-attachments/assets/0783f41b-4e5e-4d4b-a81d-617854766701)
 
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JosefCandy&theme=flat&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
---
-## ✨ Featured Projects
-
-- 🔗 [Awesome Portfolio Website](https://github.com/JosefCandy/portfolio)
-- 🔗 [Decentralized Voting DApp](https://github.com/JosefCandy/voting-dapp)
-- 🔗 [VSCode Productivity Extension](https://github.com/JosefCandy/vscode-toolkit)
-
 
 ## 💖 Support
 
@@ -39,8 +28,6 @@ If you like what I do, consider ⭐ my repositories or buying me a coffee!
 
 
 
-![ai-generative-happy-business-man-on-transparent-white-background-realistic-image-ultra-hd-high-design-very-detailed-free-photo](https://github.com/user-attachments/assets/e11d9f97-0e69-439e-a74c-4653ea09d860)
-
 ### 🧳 About Me
 
 
@@ -52,30 +39,6 @@ If you like what I do, consider ⭐ my repositories or buying me a coffee!
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 🔗 Blockchain & Web3  
-- Solidity / Smart Contracts  
-- Web3.js / Ethers.js  
-- Hardhat / Truffle  
-- MetaMask Integration  
-- IPFS / Decentralized Storage
-
-#### 💻 Frontend  
-- React.js, Vue.js  
-- JavaScript / TypeScript  
-- HTML5 / CSS3  
-- UI/UX Design
-
-#### 🧰 Tools & Platforms  
-- Git / GitHub  
-- VS Code  
-- Figma  
-- Firebase, MongoDB  
-- Docker, Netlify
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -83,11 +46,5 @@ If you like what I do, consider ⭐ my repositories or buying me a coffee!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosefCandy&theme=radical" width="450"/>
 </p>
 
----
 
-### 📫 Contact Me
-- 📧 Email:
-- ⏰ TikTok: 
-- 🐦 Twitter:
-- 💼 Facebook: 
 
